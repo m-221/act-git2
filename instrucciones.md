@@ -33,7 +33,7 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub
 2. **Crea un nuevo repositorio:** En la esquina superior derecha, busca un signo de más (+) y haz clic en
 "New repository" (Nuevo repositorio).
 
-3.** Completa los detalles del repositorio:**
+3.**Completa los detalles del repositorio:**
 o Repository name:** Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primerproyecto-prepa.
 o Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de
 ejemplo para aprender Git y GitHub").
