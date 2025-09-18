@@ -32,7 +32,6 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub
 
 2. **Crea un nuevo repositorio:** En la esquina superior derecha, busca un signo de más (+) y haz clic en
 "New repository" (Nuevo repositorio).
-
 3.**Completa los detalles del repositorio:**
 o Repository name:** Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primerproyecto-prepa.
 o Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de
@@ -44,6 +43,7 @@ o Initialize this repository with: Marca la casilla "Add a README file". El arch
 README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre.
 
 4. **Crea el repositorio:** Haz clic en el botón verde "Create repository".
+ 
 5.**Modifica el archivo README.md:** Añade tus datos generales y una foto tuya, la información debe
 de estar en formato markdown.
 
